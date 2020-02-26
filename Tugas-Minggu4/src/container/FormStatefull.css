@@ -1,0 +1,60 @@
+.title{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+
+  .h1{
+    color: black;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+
+  .form{
+    text-align: center;
+    margin: 10px auto;
+    height: 450px;
+    width: 390px;
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+
+input[type=text], input[type=password] {
+    margin: 5px auto;
+    width: 70%;
+    padding: 5px;
+}
+
+label{
+  color: black;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+button{
+  margin: 10px auto;
+  width: 100%;
+  padding: 10px;
+  background-color: green;
+  color: white;
+}
+
+.remember{
+  color: black;
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: lighter;
+}
+
+.buttonCancel{
+  margin: 10px auto;
+  width: 30%;
+  padding: 8px;
+  background-color: red;
+}
+  
